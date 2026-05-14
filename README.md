@@ -108,3 +108,5 @@
 - 使用 `ListBox` 管理借閱清單
 - 具備借閱與歸還功能
 - 防止重複借閱
+---
+<img width="915" height="672" alt="image" src="https://github.com/user-attachments/assets/dd4a717a-7bc6-4f63-9e86-f71d65b49449" />
